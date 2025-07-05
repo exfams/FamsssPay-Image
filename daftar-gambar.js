@@ -1,5 +1,5 @@
 const files = [
-  "1.webp",
+  "10.webp",
   "2.webp"
 ];
 

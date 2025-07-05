@@ -1,5 +1,5 @@
 const files = [
-  "1.png",
+  "2.png",
   "9.png"
 ];
 

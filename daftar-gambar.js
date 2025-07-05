@@ -3,7 +3,7 @@ const files = [
   "9.png"
 ];
 
-const baseURL = "https://exfams.github.io/imgtesss/";
+const baseURL = "https://exfams.github.io/FamsssPay-Image/";
 
 const tbody = document.querySelector("#gambar-table tbody");
 

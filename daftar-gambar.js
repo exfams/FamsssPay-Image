@@ -1,7 +1,6 @@
 const files = [
-  "1.webp",
-  "2.webp",
-  "10.png"
+  "1.png",
+  "2.jpeg"
 ];
 
 const baseURL = "https://exfams.github.io/FamsssPay-Image/";

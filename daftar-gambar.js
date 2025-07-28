@@ -6,7 +6,7 @@ const files = [
   "qris2.jpg",
   "telpon.jpg",
   "paket.jpg",
-  "pulsa.jpg"
+  "pulsapay.jpg"
 ];
 
 const baseURL = "https://exfams.github.io/FamsssPay-Image/";

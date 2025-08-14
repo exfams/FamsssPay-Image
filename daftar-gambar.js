@@ -9,6 +9,7 @@ const files = [
   "qris2.jpg",
   "telpon.jpg",
   "paket.jpg",
+  "dirgahayu.png",
   "pulsapay.jpg"
 ];
 

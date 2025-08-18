@@ -4,6 +4,7 @@ const files = [
   "2.png",
   "2.webp",
   "game.jpeg",
+  "eror.png",
   "50.jpeg",
   "qris1.jpg",
   "qris2.jpg",

@@ -12,6 +12,7 @@ const files = [
   "paket.jpg",
   "pending.png",
   "dirgahayu.png",
+  "QRISEROR.png"
   "pulsapay.jpg"
 ];
 

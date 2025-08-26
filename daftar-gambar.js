@@ -1,7 +1,7 @@
 const files = [
   "1.png",
-  "55.gif",
   "VVIP.png",
+  "2.gif",
   "ss.webp",
   "2.png",
   "2.webp",

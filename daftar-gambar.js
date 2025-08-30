@@ -1,6 +1,6 @@
 const files = [
   "1.png",
-  "5.mp4",
+  "logoF.png",
   "VVIP.png",
   "35.png",
   "ss.webp",

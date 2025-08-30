@@ -2,6 +2,7 @@ const files = [
   "1.png",
   "5.mp4",
   "VVIP.png",
+  "35.png",
   "ss.webp",
   "2.png",
   "2.webp",

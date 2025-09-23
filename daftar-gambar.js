@@ -20,7 +20,13 @@ const files = [
   "pending.png",
   "dirgahayu.png",
   "QRISEROR.png",
-  "pulsapay.jpg"
+  "pulsapay.jpg",
+  "tutor (1).png",
+  "tutor (2).png",
+  "tutor (3).png",
+  "tutor (4).png",
+  "tutor (5).png",
+  "tutor (6).png",
 ];
 
 const baseURL = "https://exfams.github.io/FamsssPay-Image/";

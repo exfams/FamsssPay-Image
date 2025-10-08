@@ -4,6 +4,7 @@ const files = [
   "warning.png",
   "famssspay.webp",
   "logofamsss.webp",
+  "wifi.webp",
   "bg2.webp",
   "0.webp",
   "logoN.png",

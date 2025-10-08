@@ -7,6 +7,7 @@ const files = [
   "bg2.webp",
   "0.webp",
   "logoN.png",
+  "qrislogo.png",
   "VVIP.png",
   "35.png",
   "ss.webp",

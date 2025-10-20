@@ -3,6 +3,8 @@ const files = [
   "logoF.png",
   "warning.png",
   "famssspay.webp",
+  "icon1tv.webp",
+  "icon2pln.webp",
   "logofamsss.webp",
   "wifi.png",
   "bg2.webp",
